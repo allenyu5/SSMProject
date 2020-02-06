@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestTransaction
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 4.076 s <<< FAILURE! - in TestTransaction
+testSave(TestTransaction)  Time elapsed: 0.005 s  <<< ERROR!
+java.lang.NoClassDefFoundError: org/apache/commons/fileupload/FileItemFactory
+Caused by: java.lang.ClassNotFoundException: org.apache.commons.fileupload.FileItemFactory
+

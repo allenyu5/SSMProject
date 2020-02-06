@@ -1,0 +1,15 @@
+# Created at 2020-02-06T23:11:11.986
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2020-02-06T23:11:11.988
+WARNING: Illegal reflective access by org.apache.ibatis.reflection.Reflector (file:/C:/Users/allen/.m2/repository/org/mybatis/mybatis/3.2.8/mybatis-3.2.8.jar) to method java.lang.Object.finalize()
+
+# Created at 2020-02-06T23:11:11.990
+WARNING: Please consider reporting this to the maintainers of org.apache.ibatis.reflection.Reflector
+
+# Created at 2020-02-06T23:11:11.991
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2020-02-06T23:11:11.994
+WARNING: All illegal access operations will be denied in a future release
+
